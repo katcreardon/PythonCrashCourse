@@ -43,26 +43,6 @@ class Admin(User):
         for privilege in privileges:
             print(privilege)
 
-user_1 = User('kathryn', 'reardon', 28, 'female')
-user_2 = User('matt', 'lanouette', 31, 'male')
-user_3 = User('jane', 'doe', 23, 'female')
-
-user_1.describe_user()
-user_1.greet_user()
-
-user_2.describe_user()
-user_2.greet_user()
-
-user_3.describe_user()
-user_3.greet_user()
-
-user_1.increment_login_attempts()
-user_1.increment_login_attempts()
-user_1.increment_login_attempts()
-
-print(user_1.login_attempts)
-user_1.reset_login_attempts()
-print(user_1.login_attempts)
 
 privileges = ['can add post', 'can delete post', 'can ban user']
 admin = Admin('adam', 'smith', 35, 'male', privileges)
