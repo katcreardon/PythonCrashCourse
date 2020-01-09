@@ -1,0 +1,5 @@
+In Python you can model objects using classes.
+In Python you can create dictionaries to store key-value pairs.
+In Python you can import modules and classes into files to use their methods.
+In Python you can create an OrderedDict to order a list.
+In Python you can refrain from using semicolons to end statements.
