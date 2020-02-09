@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Ch11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alien_invasion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alien_invasion/rocket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alien_invasion/sideways_shooter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alien_invasion/rain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alien_invasion/raindrops_game" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (PythonCrashCourse)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
